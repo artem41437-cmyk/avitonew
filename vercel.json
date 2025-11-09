@@ -2,7 +2,7 @@
   "version": 2,
   "functions": {
     "api/**/*.js": {
-      "runtime": "navitonew.vercel.app"
+      "runtime": "nodejs20.x"
     }
   }
 }
